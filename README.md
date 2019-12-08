@@ -38,3 +38,39 @@ and the titans with the army of the
 sun and the son of Dasaratha, the 
 son of Dasaratha and having slain the 
 monkeys
+
+
+
+
+Epoch 20/20
+
+2532/2532 [==============================] - 332s 131ms/step - loss: 0.9149
+
+####################
+
+Temperature: 1.0
+
+####################
+
+able to deep like a lion, made calamity bore the terror of his anger. Having accepted these words 
+of Raghava, many deceiting flowering 
+battle. On none hanging his instruction and great intellect with thy grief! It was formerly. Now 
+Bharata and cross their lives four departure. The prowess of roya
+
+icate tones, Manu whose boon 
+must take heart, this is help to the titans in seas for shouting, lay possessed of 
+himself with con-litulat ever 
+bestowed on him; therefore, provoked youth and in 
+words with joined palms, said :- 
+cc This matter none were mine own abode. None were mastered with their
+
+s, 
+ascended a celestial partike, cut forth, whether he bears the scent 
+of this toward and again, the aged titan among 
+the sacrificial fires of my opposi- 
+ity, would not listen, between the 
+Goddess Poulastya and their leaders, in a 
+brahmin of which I will destroy the kine 
+and the third was fil
+
+
