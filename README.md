@@ -2,10 +2,15 @@
 
 
 Epoch 5/20
+
 2532/2532 [==============================] - 331s 131ms/step - loss: 1.1127
+
 ####################
+
 Temperature: 0.2
+
 ####################
+
 on of the 
 sages, the titans and the powerful 
 Ravana and the son of Dasaratha, who was able to disport the son of 
