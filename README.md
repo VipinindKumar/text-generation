@@ -1,6 +1,5 @@
 # Text Generation
 
-
 ### Text generation from a Recurrent Neural Network trained on English translated version of "The Ramayana of Valmiki, translated by Hari Prasad Shastri"
 
 
