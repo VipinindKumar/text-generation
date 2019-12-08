@@ -106,3 +106,18 @@ train_function(file_path='ram.txt',
               dim_embeddings=100)
 
 ```
+
+
+
+```python
+model_cfg = {'rnn_size': 128,
+            'rnn_layers': 3,
+            'rnn_bidirectional': True,
+            'max_length': 30}
+
+train_cfg = {'num_epochs': 20,
+            'gen_epochs': 5,
+            'train_size': 0.9,
+            'validation': True}
+
+```
