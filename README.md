@@ -1,4 +1,4 @@
-# text-generation
+# Text Generation
 
 
 Epoch 5/20
