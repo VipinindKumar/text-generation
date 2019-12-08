@@ -1,6 +1,12 @@
 # Text Generation
 
 
+### Text generation from a Recurrent Neural Network trained on English translated version of "The Ramayana of Valmiki, translated by Hari Prasad Shastri"
+
+
+<hr/>
+
+
 Epoch 5/20
 
 2532/2532 [==============================] - 331s 131ms/step - loss: 1.1127
